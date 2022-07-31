@@ -1,6 +1,6 @@
 {
   "_latest": "0.3.0",
-  "apiEndpoint": "https://spacetravelingvideo.prismic.io/api/v2",
+  "apiEndpoint": "https://gab-of-blog.prismic.io/api/v2",
   "libraries": [
     "@/slices"
   ],
